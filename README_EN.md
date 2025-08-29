@@ -2,6 +2,8 @@
 
 This project is a Python application that uses machine learning to detect whether emails or messages are spam.
 
+[Türkçe README](README.md)
+
 ## 🎯 Features
 
 - Classifies email/message text as spam or normal (ham)
@@ -42,6 +44,8 @@ python Spam_Tespit_Edici.py
 3. The program will analyze the text and indicate if it's spam
 4. Press 'q' to quit
 
+<img width="640" height="640" alt="Output" src="https://github.com/user-attachments/assets/632b3ca7-0076-4362-8b8d-42e4456d2387" />
+
 ## 📊 Model Performance
 
 The model works with high accuracy on test data. Detailed performance metrics are printed to the console when the program is run.
@@ -63,4 +67,3 @@ The project uses the spam_ham_dataset.csv dataset, which contains examples of sp
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ---
-[Türkçe README](README.md)
