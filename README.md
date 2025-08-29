@@ -2,6 +2,8 @@
 
 Bu proje, makine öğrenmesi kullanarak e-posta veya mesajların spam olup olmadığını tespit eden bir Python uygulamasıdır.
 
+[English README](README_EN.md)
+
 ## 🎯 Özellikler
 
 - E-posta/mesaj metnini spam veya normal (ham) olarak sınıflandırma
@@ -42,6 +44,8 @@ python Spam_Tespit_Edici.py
 3. Program metni analiz edip spam olup olmadığını belirtecektir
 4. Çıkmak için 'q' tuşuna basın
 
+<img width="640" height="640" alt="Output" src="https://github.com/user-attachments/assets/632b3ca7-0076-4362-8b8d-42e4456d2387" />
+
 ## 📊 Model Performansı
 
 Model, test verisi üzerinde yüksek doğruluk oranı ile çalışmaktadır. Detaylı performans metrikleri program çalıştırıldığında konsola yazdırılmaktadır.
@@ -63,4 +67,3 @@ Proje, spam_ham_dataset.csv veri setini kullanmaktadır. Bu veri seti spam ve no
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
 
 ---
-[English README](README_EN.md)
